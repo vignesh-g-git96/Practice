@@ -1,3 +1,4 @@
 i am vignesh
 i am working in private company
 company is financial
+salary fixed as 15000
